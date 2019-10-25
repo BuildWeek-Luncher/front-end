@@ -10,6 +10,7 @@ width: 100%;
 display: flex;
 flex-wrap: wrap;
 justify-content: center;
+background-color: lightgray;
 `;
 
 const Card = styled.div`
